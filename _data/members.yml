@@ -1,0 +1,10 @@
+# Academics
+- name: Michael H. Gardner
+  role: academic
+  position: Assistant Professor
+  uni: University of Nevada, Reno
+  image: testImage.jpg
+  email: mhgardner@berkeley.edu
+  area: 
+    - DEM    
+    - LBM

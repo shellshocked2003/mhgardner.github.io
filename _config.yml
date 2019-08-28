@@ -1,1 +1,74 @@
-theme: jekyll-theme-slate
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Michael H. Gardner
+# subtitle: Assistant Professor
+# subtitle: Department of Geological Sciences and Engineering, University of Nevada, Reno
+email: mhgardner@berkeley.edu
+url: "https://github.io.shellshocked2003"
+timezone: America/Los_Angeles
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
+
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+
+
+# defaults:
+#   # _foo
+#   - scope:
+#       path: ""
+#       type: foo
+#     values:
+#       layout: single
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: publications.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+  use_raw_bibtex_entry: true
+
+  query: "@*"

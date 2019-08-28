@@ -1,0 +1,10 @@
+# Main items
+main:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications/CV
+    url: /publications/
+  - title: Opportunities
+    url: /opportunities/
