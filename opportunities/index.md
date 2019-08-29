@@ -29,5 +29,5 @@ In terms of academic preparation, the following are desirable:
 </ul>
 
 **Please do not hesitate to contact me at
-[mhgardner[@]unr[.]edu](mailto:mhgardner@unr.edu) if you are
+[mhgardner[@]berkeley[.]edu](mailto:mhgardner@berkeley.edu) if you are
 interested in working together or if you have any other questions.**
