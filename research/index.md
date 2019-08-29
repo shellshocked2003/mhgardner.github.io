@@ -8,18 +8,18 @@ header:
   overlay_image: /assets/images/cathedralPeakCropped.jpg
 excerpt: "<br/><br/><br/><br/>"  
 intro: 
-  - excerpt: 'My research focuses on quantifying how geologic setting,
-       loading conditions and infrastructure design interact,
-       capturing the multiscale nature of these interactions. I am
-       especially interested in research involving natural hazards and
-       describing how infrastructure responds to this type of loading
-       as an aggregated system. I am excited about incorporating the
-       latest advances made in computing technology into open source
-       tools that can be used by the research community as well as
-       practitioners. Additionally, I work on ways to utilize advances
-       made in sensing and UAV technology such that the data acquired
-       from these technologies can be quickly processed and used to update
-       model predictions.'
+  - excerpt: 'My research focuses on quantifying how geologic setting
+       and infrastructure design interact. This involves numerical
+       models implemented in software that is capable of capturing the
+       multiscale nature of these interactions. I am especially
+       interested in natural hazard modeling and describing how
+       infrastructure responds to this type of loading as an
+       aggregated system. I incorporate the latest advances made in
+       computing technology into open source tools that can be used by
+       the research community as well as practitioners. Additionally,
+       I work on ways to utilize advances made in sensing and UAV
+       technology such that the data acquired from these technologies
+       can be quickly processed and used to update model predictions.'
 
 scour:
   - url: /assets/images/oroville.jpg
