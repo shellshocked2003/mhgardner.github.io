@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<img style="float: right;" src="{{ site.baseurl }}/assets/images/headShot.jpg" width="700">
+<img style="float: right;" src="{{ site.baseurl }}/assets/images/headShot2.jpg" width="400">
 
 **Email:** mhgardner[@]berkeley[.]edu<br/>
 
