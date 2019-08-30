@@ -53,4 +53,37 @@ excerpt: "<br/><br/><br/><br/>"
 
 # Published Software
 
-UNDER CONSTRUCTION
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<div id="refs" class="references">
+<div id="ref-gardner2019smelt">
+<p><strong>M. Gardner</strong>, NHERI-Simcenter Smelt (Stochastic, Modular, and Extensible Library for Time histories) (2019), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.2697656">https://doi.org/10.5281/zenodo.2697656</a>.</p>
+</div>
+<div id="ref-mckenna2019eeuq">
+<p>F. McKenna, W. Elhaddad, <strong>M. Gardner</strong>, C. Wang, NHERI-Simcenter Earthquake Engineering with Uncertainty Quantifcation (EE-UQ) Application (2019), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.2619616">https://doi.org/10.5281/zenodo.2619616</a>.</p>
+</div>
+<div id="ref-mckenna2019pbe">
+<p>F. McKenna, A. Zsarnoczay, C. Wang, W. Elhaddad, <strong>M. Gardner</strong>, NHERI-Simcenter Performance-Based Engineering (PBE) Application (2019), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.2619736">https://doi.org/10.5281/zenodo.2619736</a>.</p>
+</div>
+<div id="ref-mckenna2019weuq">
+<p>F. McKenna, P. Mackenzie-Helnwein, W. Elhaddad, <strong>M. Gardner</strong>, J. Wan, D. K. Kwon, NHERI-Simcenter Wind Engineering with Uncertainty Quantification (WE-UQ) Application (2019), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.3274228">https://doi.org/10.5281/zenodo.3274228</a>.</p>
+</div>
+<div id="ref-mckenna2018uqfem">
+<p>F. McKenna, N. Padhye, C. Wang, P. Mackenzie-Helnwein, <strong>M. Gardner</strong>, NHERI-Simcenter Uncertainty Quantifcation for the Finite Element Method (uqFEM) application (2018), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.1439497">https://doi.org/10.5281/zenodo.1439497</a>.</p>
+</div>
+<div id="ref-simpson18bfm">
+<p>B. Simpson, F. McKenna, <strong>M. Gardner</strong>, NHERI-Simcenter Braced Frame Modeling (BFM) Application (2018), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.1438554">https://doi.org/10.5281/zenodo.1438554</a>.</p>
+</div>
+<div id="ref-gardner2016sparkrocks">
+<p><strong>M. Gardner</strong>, J. Kolb, N. Sitar, SparkRocks (2016), doi: <a href="https://doi.org/https://doi.org/10.5281/zenodo.166103">https://doi.org/10.5281/zenodo.166103</a>.</p>
+</div>
+</div>
+</body>
+</html>
