@@ -54,7 +54,7 @@ through joints and fractures, and over the rock surface are captured.
 Currently, we are working on applying the coupled DEM-LBM approach on
 a High Performance Computing platform such the the numerical model is
 able to capture the multiscale nature of the fluid-solid interaction
-with sufficient fidelity to understand mechanicstically what governs
+with sufficient fidelity to understand mechanistically what governs
 plucking.
 
 Future potential applications include direct evaluation of the effect
