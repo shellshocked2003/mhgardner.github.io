@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/lyellCanyonMoreCropped.jpg    
-excerpt: "Assistant Professor<br />Department of Geological Sciences and Engineering"
+excerpt: "Assistant Professor<br />Department of Geological Sciences and Engineering<br />University of Nevada, Reno"
 
 feature_row:
   - image_path: assets/images/spauldingSpillwayCropped2.jpg
