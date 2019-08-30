@@ -6,7 +6,7 @@
   month  = may,
   year   = {2019},
   note   = {https://doi.org/10.5281/zenodo.2697657},
-  doi    = {https://doi.org/10.5281/zenodo.2697656},
+  doi    = {10.5281/zenodo.2697656},
   url    = {https://doi.org/10.5281/zenodo.2697657},
 }
 
@@ -16,7 +16,7 @@
   month  = nov,
   year   = {2016},
   note   = {https://doi.org/10.5281/zenodo.166103},
-  doi    = {https://doi.org/10.5281/zenodo.166103},
+  doi    = {10.5281/zenodo.166103},
   url    = {https://doi.org/10.5281/zenodo.166103},
 }
 
@@ -26,7 +26,7 @@
   month  = mar,
   year   = {2019},
   note   = {https://doi.org/10.5281/zenodo.2619616},
-  doi    = {https://doi.org/10.5281/zenodo.2619616},
+  doi    = {10.5281/zenodo.2619616},
   url    = {https://doi.org/10.5281/zenodo.2619616},
 }
 
@@ -36,7 +36,7 @@
   month  = apr,
   year   = {2019},
   note   = {https://doi.org/10.5281/zenodo.2619736},
-  doi    = {https://doi.org/10.5281/zenodo.2619736},
+  doi    = {10.5281/zenodo.2619736},
   url    = {https://doi.org/10.5281/zenodo.2619736},
 }
 
@@ -46,7 +46,7 @@
   month  = oct,
   year   = {2018},
   note   = {https://doi.org/10.5281/zenodo.1439497},
-  doi    = {https://doi.org/10.5281/zenodo.1439497},
+  doi    = {10.5281/zenodo.1439497},
   url    = {https://doi.org/10.5281/zenodo.1439497},
 }
 
@@ -56,7 +56,7 @@
   month  = sep,
   year   = {2018},
   note   = {https://doi.org/10.5281/zenodo.1438554},
-  doi    = {https://doi.org/10.5281/zenodo.1438554},
+  doi    = {10.5281/zenodo.1438554},
   url    = {https://doi.org/10.5281/zenodo.1438554},
 }
 
