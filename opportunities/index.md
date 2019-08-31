@@ -12,6 +12,7 @@ If you are interested in working with me, please take a look at the
 [Research Section]({{ site.baseurl }}/research) to see if any of
 my current projects interest you. I am also interested to hear
 your ideas for possible research topics!
+{: .text-justify}
 
 # Preferred Background
 
@@ -19,6 +20,7 @@ The most important thing is to come with a good, positive attitude. Inevitably,
 research will not always go the way you anticipated and it is essential to
 maintain perspective and continue pushing through. If you come with the right
 attitude, we can fill in other gaps as needed.
+{: .text-justify}
 
 In terms of academic preparation, the following are desirable:
 
@@ -31,3 +33,4 @@ In terms of academic preparation, the following are desirable:
 **Please do not hesitate to contact me at
 [mhgardner[@]berkeley[.]edu](mailto:mhgardner@berkeley.edu) if you are
 interested in working together or if you have any other questions.**
+{: .text-justify}

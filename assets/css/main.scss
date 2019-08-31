@@ -41,3 +41,28 @@
   display: block;
   font-size: $type-size-6;
 }
+
+.width-half {
+    width: 50%
+}
+
+.width-quarter {
+    width: 25%
+}
+
+.width-3quarter {
+    width: 75%
+}
+
+.halfsize {
+    -moz-transform:scale(0.5);
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}

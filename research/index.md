@@ -29,7 +29,7 @@ scour:
   - url: /assets/images/spauldingSpillwayCropped.jpg
     image_path: /assets/images/spauldingSpillwayCropped.jpg
     alt: "Spillway No. 2, Spaulding Dam, CA"
-    title: "Spillway No. 2, Spaulding Dam, CA"    
+    title: "Spillway No. 2, Spaulding Dam, CA"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -56,15 +56,54 @@ a High Performance Computing platform such the the numerical model is
 able to capture the multiscale nature of the fluid-solid interaction
 with sufficient fidelity to understand mechanistically what governs
 plucking.
+{: .text-justify}
 
 Future potential applications include direct evaluation of the effect
 of water pressure inside the fractured rock mass, along potential
 sliding planes, and can be extended also to rock falls and slides into
 standing bodies of water, such as lakes and reservoirs.
+{: .text-justify}
 
 {% include vimeoPlayer.html id=352635504 caption="Coupled DEM-LBM simulation of fluid flowing through fractured rock"%}
 <br/>
 
-# THIS PAGE IS STILL UNDER CONSTRUCTION, PLEASE CHECK BACK FOR UPDATES
+# Three-Dimensional Model Generation
 
-[comment]: <> (# Three-Dimensional Model Generation)
+Generating a realistic representation of a fractured rock mass is a
+first step in many different analyses. Field observations need to be
+translated into a 3-D model that will serve as the input for these
+analyses. The block systems can contain hundreds of thousands to
+millions of blocks of varying sizes and shapes; generating these large
+models is very computationally expensive and requires significant
+computing resources. We have taken advantage of advances made in big
+data analytics and Cloud Computing and developed an open-source
+program&mdash;SparkRocks&mdash;that is able to generate real-world
+scale block systems containing millions of blocks in minutes and
+achieve orders of magnitude speedup. Importantly, the same application
+is able to run on many different computing environments&mdash;from a
+laptop, to desktop, to cluster on the Cloud&mdash;so computational
+requirements can be seamlessly scaled up as required.
+{: .text-justify}
+
+<div class="image" style="display:table;">
+    <img src="/assets/images/joints.png" class="center"/>
+    <div style="display:table-caption;caption-side:bottom;" class="center">Rock joint sets extracted from drone survey</div>
+</div>
+
+<br />
+The next phase of this research is focusing on two aspects: 1.)
+Developing the ability to process various input data types, such as
+UAV (drone) or LiDAR surveys, to automatically extract rock mass
+characteristics and their variability and, 2.) generating stochastic
+realizations of the three dimensional rock mass given the variability
+extracted from the input data. The functionality of the data stream
+processing and stochastic generation is being developed to be
+extensible and agnostic of the application with the long-term goal of
+developing a research tool that is capable of generating
+three-dimensional models for various types of problems and that is
+portable to many different computing platforms.
+{: .text-justify}
+
+
+
+# THIS PAGE IS STILL UNDER CONSTRUCTION, PLEASE CHECK BACK FOR UPDATES
