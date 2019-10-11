@@ -32,7 +32,7 @@ feature_row:
 
 <img style="float: right;" src="{{ site.baseurl }}/assets/images/headShot2.jpg" width="400">
 
-**Email:** mhgardner[@]berkeley[.]edu<br/>
+**Email:** mhgardner[@]unr[.]edu<br/>
 
 [comment]: <> (**Phone:** <br/>)
 
