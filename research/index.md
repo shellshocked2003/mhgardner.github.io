@@ -103,7 +103,3 @@ developing a research tool that is capable of generating
 three-dimensional models for various types of problems and that is
 portable to many different computing platforms.
 {: .text-justify}
-
-
-
-# THIS PAGE IS STILL UNDER CONSTRUCTION, PLEASE CHECK BACK FOR UPDATES
