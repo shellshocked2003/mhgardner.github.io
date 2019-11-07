@@ -34,6 +34,8 @@ feature_row:
 
 **Email:** mhgardner[@]unr[.]edu<br/>
 
+**Department Webpage:** [www.unr.edu/geology](https://www.unr.edu/geology)<br/>
+
 [comment]: <> (**Phone:** <br/>)
 
 **Education**<br/>
