@@ -2,9 +2,13 @@
 main:
   - title: Home
     url: /
+  - title: Team
+    url: /team/    
   - title: Research
     url: /research/
-  - title: Publications/CV
+  - title: Teaching
+    url: /teaching    
+  - title: Publications
     url: /publications/
   - title: Opportunities
     url: /opportunities/

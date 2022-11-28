@@ -3,8 +3,48 @@
   role: academic
   position: Assistant Professor
   uni: University of Nevada, Reno
-  image: testImage.jpg
-  email: mhgardner@berkeley.edu
-  area: 
-    - DEM    
-    - LBM
+  image: headShot2.jpg
+  email: mhgardner[@]unr[.]edu
+  cv: GardnerMH_CV.pdf
+  bs: University of California, Berkeley
+
+# Graduate Students
+- name: Mohsen Takhtravan
+  role: graduate
+  position: PhD Student
+  uni: University of Nevada, Reno
+  image: takhtravan.jpg
+  email: mtakhtravan[@]nevada[.]unr[.]edu
+  topic: Multi-Particle System Response to Hydraulic Loads
+
+- name: Yuval Keissar
+  role: graduate
+  position: PhD Student (co-advised with Nicholas Sitar)
+  uni: University of California, Berkeley
+  image: keissar.jpg
+  email: yuval_keissar[@]berkeley[.]edu
+  topic: Predictive models for dynamic analysis of rock slope response
+
+- name: Jakob Scheel
+  role: graduate
+  position: PhD Student (co-advised with Philipp Ruprecht)
+  uni: University of Nevada, Reno
+  image: question.png
+  email: 
+  topic: Mafic magmatic enclaves as tracer of protracted mixing and hybridization
+
+- name: Justin Toller
+  role: graduate
+  position: PhD Student (co-advised with Kaitlin Keegan)
+  uni: University of Nevada, Reno
+  image: toller.jpg
+  email: jtoller[@]nevada[.]unr[.]edu
+  topic: The impact of glacial firn microstructure on ice age-gas age difference
+
+- name: Kevin Ostfeld
+  role: undergrad
+  position: Undergraduate Student
+  uni: University of Nevada, Reno
+  image: question.png
+  email: kostfeld[@]nevada[.]unr[.]edu
+  topic: Multispectral Imaging for Identifying Erosional and Depositional Patterns During Extreme Flooding

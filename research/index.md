@@ -7,19 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/cathedralPeakCropped.jpg
 excerpt: "<br/><br/><br/><br/>"  
-intro: 
-  - excerpt: 'My research focuses on quantifying how geologic setting
-       and infrastructure design interact. This involves numerical
-       models implemented in software that is capable of capturing the
-       multiscale nature of these interactions. I am especially
-       interested in natural hazard modeling and describing how
-       infrastructure responds to this type of loading as an
-       aggregated system. I incorporate the latest advances made in
-       computing technology into open source tools that can be used by
-       the research community as well as practitioners. Additionally,
-       I work on ways to utilize advances made in sensing and UAV
-       technology such that the data acquired from these technologies
-       can be quickly processed and used to update model predictions.'
 
 scour:
   - url: /assets/images/oroville.jpg
@@ -31,8 +18,6 @@ scour:
     alt: "Spillway No. 2, Spaulding Dam, CA"
     title: "Spillway No. 2, Spaulding Dam, CA"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 # Dynamic Rock-Fluid Interaction
 
@@ -67,6 +52,74 @@ standing bodies of water, such as lakes and reservoirs.
 {% include vimeoPlayer.html id=352635504 caption="Coupled DEM-LBM simulation of fluid flowing through fractured rock"%}
 <br/>
 
+{% include vimeoPlayer.html id=773530042 caption="Tetrahedral block eroded by turbulent flow. Turbulent flow structures shown through contours of the Q-Criterion."%}
+<br/>
+
+# Multispectral Imaging for Identifying Erosional and Depositional Patterns During Extreme Flooding
+
+Flooding annually causes thousands of fatalities and billions of dollars in
+damage globally and, due to climate change, frequency and magnitude of extreme
+flooding events is expected to increase. High-water marks represent key
+information to be collected post flooding for advancing the understanding of
+flood impacts and the development of mitigation strategies. However, high- water
+marks often become increasingly difficult to detect with time passing after a
+flood event due to drying. In addition, access into flooded areas can be
+complicated by destroyed infrastructure, leading to significant loss of data or
+risk to personnel entering these recently flooded areas. We are exploring the
+application of multispectral imagery in rapidly collecting and mapping
+high-water marks post flooding in order better quantify spatially varying
+flood-related hazard.
+{: .text-justify}
+
+<div class="image" style="display:table;">
+    <img src="/assets/images/highWater.jpg" class="center"/>
+    <div style="display:table-caption;caption-side:bottom;" class="center">Normalized difference between red-edge and blue bands (NDRE-B). In this case, pixels with NDRE-B ranging from 0.0 to 0.2 fall below the high water mark such that the maximum water elevation during flooding can be automatically extracted from multispectral imagery.</div>
+</div>
+<br/>
+
+Additionally, we are applying this technology to map sediment erosion and
+deposition during extreme flooding events. The main focus of this research is to
+understand how fluid flow, local geology, and infrastructure design interact to
+make certain flooding events more destructive. Ultimately, this research will
+help guide infrastructure design to meet the evolving and potentially
+destructive influence of climate change.
+{: .text-justify}
+
+# The Influence of Glacial Firn Microstructure on Intrinsic Permeability
+
+Porous media, such as polar firn, are characterized by small, interconnected
+pores by which air from the overlying atmosphere can diffuse through the firn
+column. How well we characterize the pore space, and the ability of air to
+migrate through it, ultimately dictates how well we can reconstruct past climate
+records. While several approaches use proxies such as firn density to determine
+the rate at which air can diffuse through the firn column, including firn
+microstructure in diffusion calculations has recently been considered. Central
+to this concept is the intrinsic permeability of the firn, which is dictated
+entirely by the microstructure and the organization of the pore space. Recently,
+the coupled use of x-ray micro-computed tomography (Micro-CT) and computational
+fluid dynamics have shown potential as an alternative to direct measurement of
+intrinsic permeability in the laboratory. Micro-CT
+measurements enable non-intrusive reconstruction of the three-dimensional pore
+space that can be used to create computational models that numerically estimate
+the intrinsic permeability from the Micro-CT scans. Given the complex geometry
+of the pore space in glacial firn, the Lattice Boltzmann Method (LBM) has gained
+popularity for performing these simulations.
+{: .text-justify}
+
+<div class="image" style="display:table;">
+    <img src="/assets/images/firnCubes.png" class="center"/>
+    <div style="display:table-caption;caption-side:bottom;" class="center">3D representations of flow through pore space in glacial firn in
+    samples from depths of 7 meters (left), 26 meters (center), and 70 meters (right).</div>
+</div>
+<br/>
+
+We are applying this approach to assess the influence of glacial firn
+microstructure on the difference between the age of air trapped in the firn and
+the surrounding ice. Understanding the role of microstructure on firn
+permeability is important for interpreting paleoclimate records from glacial
+ice.
+{: .text-justify}
+
 # Three-Dimensional Model Generation
 
 Generating a realistic representation of a fractured rock mass is a
@@ -77,7 +130,7 @@ millions of blocks of varying sizes and shapes; generating these large
 models is very computationally expensive and requires significant
 computing resources. We have taken advantage of advances made in big
 data analytics and Cloud Computing and developed an open-source
-program&mdash;SparkRocks&mdash;that is able to generate real-world
+program&mdash;<a href="https://github.com/GeosystemsLab/spark-rocks">SparkRocks</a>&mdash;that is able to generate real-world
 scale block systems containing millions of blocks in minutes and
 achieve orders of magnitude speedup. Importantly, the same application
 is able to run on many different computing environments&mdash;from a
