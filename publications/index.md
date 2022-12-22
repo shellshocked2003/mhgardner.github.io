@@ -59,23 +59,21 @@ excerpt: "<br/><br/><br/><br/>"
      with the following command:
      bibtex2html -nokeys -nobiblinks -noabstract -nokeywords -d -r -nofooter -nobibsource journals.bib  -->
 
-<p><a name="gardner2022toward"></a>
-
-<b>M. Gardner</b>.
- Toward a Complete Kinematic Description of Hydraulic Plucking of
-  Fractured Rock.
- <em>ASCE Journal of Hydraulic Engineering</em>, Revise for editor only,
-  In review, 2022.
-
-</p>
-
 <p><a name="gardner2022high"></a>
 
 <b>M. Gardner</b>, E.&nbsp;Nichols, N.&nbsp;Stark, A.&nbsp;Lemnitzer, and D.&nbsp;Frost.
  Multispectral Imaging for Identification of High-Water Marks in
   Post-Disaster Flood Reconnaissance.
- <em>ASCE Natural Hazards Review</em>, Revise for editor only, In review,
-  2022.
+ <em>ASCE Natural Hazards Review</em>, Accepted, 2022.
+
+</p>
+
+<p><a name="gardner2022toward"></a>
+
+<b>M. Gardner</b>.
+ Toward a Complete Kinematic Description of Hydraulic Plucking of
+  Fractured Rock.
+ <em>ASCE Journal of Hydraulic Engineering</em>, Accepted, 2022.
 
 </p>
 
