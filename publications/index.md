@@ -65,7 +65,8 @@ excerpt: "<br/><br/><br/><br/>"
  Multispectral Imaging for Identification of High-Water Marks in
   Post-Disaster Flood Reconnaissance.
  <em>ASCE Natural Hazards Review</em>, 2023.
-[&nbsp;<a href="http://dx.doi.org/10.1061/NHREFO.NHENG-1735">DOI</a>&nbsp;]
+[&nbsp;<a href="http://dx.doi.org/10.1061/NHREFO.NHENG-1735">DOI</a>&nbsp;| 
+<a href="https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-1735">http</a>&nbsp;]
 
 </p>
 
