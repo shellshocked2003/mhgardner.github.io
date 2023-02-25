@@ -64,7 +64,8 @@ excerpt: "<br/><br/><br/><br/>"
 <b>M. Gardner</b>, E.&nbsp;Nichols, N.&nbsp;Stark, A.&nbsp;Lemnitzer, and D.&nbsp;Frost.
  Multispectral Imaging for Identification of High-Water Marks in
   Post-Disaster Flood Reconnaissance.
- <em>ASCE Natural Hazards Review</em>, Accepted, 2022.
+ <em>ASCE Natural Hazards Review</em>, 2023.
+[&nbsp;<a href="http://dx.doi.org/10.1061/NHREFO.NHENG-1735">DOI</a>&nbsp;]
 
 </p>
 
