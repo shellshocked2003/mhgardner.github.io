@@ -59,6 +59,17 @@ excerpt: "<br/><br/><br/><br/>"
      with the following command:
      bibtex2html -nokeys -nobiblinks -noabstract -nokeywords -d -r -nofooter -nobibsource journals.bib  -->
 
+<p><a name="gardner2022toward"></a>
+
+<b>M. Gardner</b>.
+ Toward a Complete Kinematic Description of Hydraulic Plucking of
+  Fractured Rock.
+ <em>ASCE Journal of Hydraulic Engineering</em>, 2023.
+[&nbsp;<a href="http://dx.doi.org/10.1061/JHEND8.HYENG-13193">DOI</a>&nbsp;| 
+<a href="https://ascelibrary.org/doi/full/10.1061/JHEND8.HYENG-13193">http</a>&nbsp;]
+
+</p>
+
 <p><a name="gardner2022high"></a>
 
 <b>M. Gardner</b>, E.&nbsp;Nichols, N.&nbsp;Stark, A.&nbsp;Lemnitzer, and D.&nbsp;Frost.
@@ -67,15 +78,6 @@ excerpt: "<br/><br/><br/><br/>"
  <em>ASCE Natural Hazards Review</em>, 2023.
 [&nbsp;<a href="http://dx.doi.org/10.1061/NHREFO.NHENG-1735">DOI</a>&nbsp;| 
 <a href="https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-1735">http</a>&nbsp;]
-
-</p>
-
-<p><a name="gardner2022toward"></a>
-
-<b>M. Gardner</b>.
- Toward a Complete Kinematic Description of Hydraulic Plucking of
-  Fractured Rock.
- <em>ASCE Journal of Hydraulic Engineering</em>, Accepted, 2022.
 
 </p>
 
