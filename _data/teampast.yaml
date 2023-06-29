@@ -6,3 +6,11 @@
   image: suter.jpg
   email: isuter[@]nevada[.]unr[.]edu
   topic: Mapping bed forces to granular flow properties
+
+- name: Justin Toller
+  role: graduate
+  position: Masters Student (co-advised with Kaitlin Keegan)
+  uni: University of Nevada, Reno
+  image: toller.jpg
+  email: jtoller[@]nevada[.]unr[.]edu
+  topic: Using the Lattice Boltzmann Method to Estimate the Air Transport Properties of Polar Firn

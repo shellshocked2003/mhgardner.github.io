@@ -4,7 +4,7 @@
   position: Assistant Professor
   uni: University of Nevada, Reno
   image: headShot2.jpg
-  email: mhgardner[@]unr[.]edu
+  email: mhgardner[@]ucdavis[.]edu
   cv: GardnerMH_CV.pdf
   bs: University of California, Berkeley
 
@@ -14,7 +14,7 @@
   position: PhD Student
   uni: University of Nevada, Reno
   image: takhtravan.jpg
-  email: mtakhtravan[@]nevada[.]unr[.]edu
+  email: mtakhtravan[@]ucdavis[.]edu
   topic: Multi-Particle System Response to Hydraulic Loads
 
 - name: Yuval Keissar
@@ -32,14 +32,6 @@
   image: scheelCropped.jpg
   email: 
   topic: Mafic magmatic enclaves as tracer of protracted mixing and hybridization
-
-- name: Justin Toller
-  role: graduate
-  position: PhD Student (co-advised with Kaitlin Keegan)
-  uni: University of Nevada, Reno
-  image: toller.jpg
-  email: jtoller[@]nevada[.]unr[.]edu
-  topic: The impact of glacial firn microstructure on ice age-gas age difference
 
 - name: Kevin Ostfeld
   role: undergrad

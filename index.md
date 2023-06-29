@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/lyellCanyonMoreCropped.jpg    
-excerpt: "Department of Geological Sciences and Engineering<br />University of Nevada, Reno"
+excerpt: "Department of Civil and Environmental Engineering<br />University of California, Davis"
 
 feature_row:
   - image_path: assets/images/spauldingSpillwayCropped2.jpg
@@ -57,9 +57,9 @@ technologies can be quickly processed and used to update model predictions.
 
 <img style="float: right;" src="{{ site.baseurl }}/assets/images/headShot2.jpg" width="300">
 
-**Email:** mhgardner[@]unr[.]edu<br/>
+**Email:** mhgardner[@]ucdavis[.]edu<br/>
 
-**Department Webpage:** [www.unr.edu/geology](https://www.unr.edu/geology)<br/>
+[//]: #    (**Department Webpage:** [www.unr.edu/geology](https://www.unr.edu/geology)<br/>)
 
 [comment]: <> (**Phone:** <br/>)
 
@@ -72,6 +72,8 @@ technologies can be quickly processed and used to update model predictions.
 
 **Professional Experience**<br />
 <ul style="list-style: none;">
+<li><i>Assistant Professor</i>, Department of Civil and Environmental Engineering, University of California, Davis, 2023--present</li>
+<li><i>Assistant Professor</i>, Department of Geological Sciences and Engineering, University of Nevada, Reno, 2020--2023</li>
 <li><i>Postdoctoral Scholar</i>, NHERI SimCenter, University of California, Berkeley, 2018--2019</li>
 <li><i>Engineer</i>, Geotechnics Group, Arup, San Francisco, 2010--2013</li>
 <li><i>Combat Engineer</i>, United States Army, 2003--2005</li>
