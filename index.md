@@ -59,7 +59,7 @@ technologies can be quickly processed and used to update model predictions.
 
 **Email:** mhgardner[@]ucdavis[.]edu<br/>
 
-[//]: #    (**Department Webpage:** [www.unr.edu/geology](https://www.unr.edu/geology)<br/>)
+**Department Webpage:** [https://cee.engineering.ucdavis.edu/](https://cee.engineering.ucdavis.edu/)<br/>
 
 [comment]: <> (**Phone:** <br/>)
 
